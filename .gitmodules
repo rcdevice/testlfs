@@ -1,0 +1,3 @@
+[submodule "lfssub"]
+	path = lfssub
+	url = https://github.com/rcdevice/lfssub.git
